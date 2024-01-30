@@ -58,7 +58,7 @@ const About = ({mode,setmode}) => {
             </p>
 
             <ul className="feature">
-              <h3>🌾 Salient Features</h3>
+              <h3>🌾 Features - </h3>
               <li>&#9830; Intelligent crop recommendation</li>
               <li>&#9830; User-friendly interface </li>
               <li>
